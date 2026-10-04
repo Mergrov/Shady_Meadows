@@ -1,0 +1,22 @@
+{
+  "name": "playwright-shady-meadows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "saucelabs": "npx playwright test tests/saucelabs.ts --project=chromium --headed",
+    "sesssionStorage": "npx playwright test tests/sesssionStorage.spec.ts --project=chromium --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "save-dev": "^0.0.1-security"
+  }
+}

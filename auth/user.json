@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "AC_SF_8CEFDA09D5",
+      "value": "7f2adadf59e7439ddad788184f4bdae2",
+      "domain": "automationintesting.online",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "language",
+      "value": "en",
+      "domain": "automationintesting.online",
+      "path": "/",
+      "expires": 1784026036.407263,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "currency",
+      "value": "USD",
+      "domain": "automationintesting.online",
+      "path": "/",
+      "expires": 1784026036.407304,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "customer",
+      "value": "M0pzRHdYemxpV2tzNjBpMC9WOWVhaXFnTzYxRUg5aEg3VE15RHpLYU5xNUkxeGVhMk5DLzUreThrU0lVNE5uYVdtYllaN21QMDZvMkY3SytHcmFmV0RFWnZqQU9mdWJzaDdlSG5tZnNUdnZEU1JIWXdTaXQ0ZXZNREd5Yk5WbjNvQmZXL1B3M1h1UEZOa2JVUmZmZGRRPT06OvUpJcm1TdopeZQlayT9wfw%3D",
+      "domain": "automationteststore.com",
+      "path": "/",
+      "expires": 1812970037.476487,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

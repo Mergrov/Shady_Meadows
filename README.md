@@ -1,1 +1,1 @@
-Automated api tests for a mock website.
+Automated tests for a mock website.
